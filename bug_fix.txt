@@ -1,0 +1,1 @@
+i fixed the bug where the background color was not showing
